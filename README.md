@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This MSc Artificial Intelligence and Machine Learning dissertation investigates whether **computational text-analysis and creativity-related measures** can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
+- Investigates **computational text-analysis and creativity-related measures** that can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
 
 The dataset contains **60 papers**:
 
