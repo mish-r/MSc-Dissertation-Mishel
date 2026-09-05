@@ -1,8 +1,8 @@
-# Computational Text Analysis of Genuine, Retracted and AI-Generated Scientific Papers
+# Stylometric and Entropy-Based Text Mining of Genuine, Retracted and AI-Generated Scientific Papers
 
 ## Project Overview
 
-- Investigates **computational text-analysis and creativity-related measures** that can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
+- Analyses **computational text-mining and creativity-related measures** that can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
 
 The dataset contains **60 papers**:
 
