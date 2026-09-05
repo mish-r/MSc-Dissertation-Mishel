@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-- Analyses **computational text-mining and creativity-related measures** that can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
+- Analyses **computational text-mining / analysis and creativity-related measures** that can distinguish between **Genuine, Retracted and AI-generated scientific papers** in the **AI-for-healthcare** domain.
 
 The dataset contains **60 papers**:
 
